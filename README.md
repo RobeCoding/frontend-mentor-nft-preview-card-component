@@ -21,7 +21,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [FrontendMentorSolution](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub)
-- Live Site URL: [GitHubPage]([https://your-live-site-url.com](https://robecoding.github.io/frontend-mentor-nft-preview-card-component/))
+- Live Site URL: [GitHubPage](https://robecoding.github.io/frontend-mentor-nft-preview-card-component/)
 
 ## My process
 
