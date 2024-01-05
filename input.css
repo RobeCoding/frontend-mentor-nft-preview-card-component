@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+@layer base {
+    html {
+        font-family: 'Outfit', sans-serif;
+        font-size: 18px;
+        box-sizing: border-box;
+    }
+  }
+
+  @layer components{
+    .overlay{
+        position: absolute;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 90%;
+        height: 49%;
+        opacity: 0;
+        background: hsla(178, 100%, 50%, 0.479); 
+        border-radius: 0.75rem;
+
+    }
+     .overlay:hover{
+        opacity: 1;
+        cursor: pointer;
+        
+    
+}
+  
+  
+}
